@@ -1,5 +1,12 @@
 module.exports = {
   title: "张凯",
+  plugins: {
+    mathjax: {
+      target: "chtml",
+      presets: ["\\def\\bm#1{\\boldsymbol#1}"],
+      showError: true
+    }
+  },
   theme: "@vuepress/blog",
   themeConfig: {
     modifyBlogPluginOptions(blogPluginOptions) {
