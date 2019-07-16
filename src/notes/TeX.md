@@ -21,6 +21,7 @@ location: 背景
 | $\mathbb{A}$        | 集合     | \\mathbb{A}         |
 | $\mathbb{E}$        | 期望     | \\mathbb{E}         |
 | $\mathcal{N}$       | 高斯分布 | \\mathcal{N}        |
+| $\bar{a}$           | 平均值   | \\bar{a}            |
 
 : 数学字体 {#tbl:mathFonts}
 
