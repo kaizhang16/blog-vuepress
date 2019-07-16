@@ -10,8 +10,8 @@
     "build": "vuepress build src"
   },
   "devDependencies": {
-    "@vuepress/theme-blog": "^1.1.0",
-    "vuepress": "^1.0.1"
+    "@vuepress/theme-blog": "^1.2.2",
+    "vuepress": "^1.0.2"
   },
   "dependencies": {
     "vuepress-plugin-mathjax": "^1.2.8"
